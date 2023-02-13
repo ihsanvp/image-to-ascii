@@ -1,5 +1,5 @@
 [package]
-name = "image-to-asci"
+name = "image-to-ascii"
 version = "0.1.0"
 edition = "2021"
 
